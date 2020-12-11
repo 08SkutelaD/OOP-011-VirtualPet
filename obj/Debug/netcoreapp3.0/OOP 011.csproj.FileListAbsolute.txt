@@ -1,0 +1,11 @@
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\obj\Debug\netcoreapp3.0\OOP 011.csprojAssemblyReference.cache
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\obj\Debug\netcoreapp3.0\OOP 011.AssemblyInfoInputs.cache
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\obj\Debug\netcoreapp3.0\OOP 011.AssemblyInfo.cs
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\bin\Debug\netcoreapp3.0\OOP 011.exe
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\bin\Debug\netcoreapp3.0\OOP 011.deps.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\bin\Debug\netcoreapp3.0\OOP 011.runtimeconfig.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\bin\Debug\netcoreapp3.0\OOP 011.runtimeconfig.dev.json
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\bin\Debug\netcoreapp3.0\OOP 011.dll
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\bin\Debug\netcoreapp3.0\OOP 011.pdb
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\obj\Debug\netcoreapp3.0\OOP 011.dll
+C:\Users\Wilde on the Go\Desktop\Misc\Dani\OOP 011\obj\Debug\netcoreapp3.0\OOP 011.pdb
